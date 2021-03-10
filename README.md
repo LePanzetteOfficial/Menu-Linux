@@ -1,4 +1,4 @@
-# Once-repository
+# Menu linux
 1-nella cartella Home crea una cartella di nome 'menu';
 2-al suo interno inserisci il file sorgente .c in questa repository;
 3-Compila quest'ultimo;
@@ -7,8 +7,9 @@
   chmod u+x menu.sh
 6-nel desktop crea 2 cartelle:
    -La prima deve avere il nome 'programmi':
-       -Al suo interno crea altre 2 cartelle:
+       -Al suo interno crea altre 3 cartelle:
          -una di nome 'codici_sorgente';
+         -una di nome 'java';
          -l'altra di nome 'eseguibili';
   -La seconda deve avere il nome 'Testo';
 7-se hai Linux in italiano cambia nel file sorgente 'Desktop' in 'Scrivania';
